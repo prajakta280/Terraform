@@ -1,2 +1,2 @@
 # Terraform
-This repo contain files of resources created using terrafrom
+This repo contain ec2, vpc created using terrafrom 
